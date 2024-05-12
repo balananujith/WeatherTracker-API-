@@ -16,7 +16,7 @@ Welcome to WeatherTracker API! This project offers a straightforward solution fo
 2. **Clone Repository**: Clone the WeatherTracker API repository to your local machine.
 
     ```
-    git clone https://github.com/yourusername/WeatherTracker-API.git
+    git clone https://github.com/balananujith/WeatherTracker-API-.git
     ```
 
 3. **Set API Key**: Replace the placeholder `API_KEY` in the code with your actual OpenWeather API key.
@@ -24,7 +24,7 @@ Welcome to WeatherTracker API! This project offers a straightforward solution fo
 
     ```
     go build
-    ./WeatherTracker-API
+    ./WeatherTracker-API-
     ```
 
 5. **Access Weather Data**: Use the provided endpoints to retrieve weather data for specific cities.
